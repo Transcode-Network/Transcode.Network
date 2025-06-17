@@ -5,10 +5,10 @@ export default function ContributorsSection() {
     <section className="py-24 px-6 sm:px-8 lg:px-12 bg-gradient-to-b from-[#1a1a2e] to-[#16213e] relative">
       <div className="max-w-5xl mx-auto text-center relative z-20">
         <h2 className="text-4xl sm:text-5xl font-bold mb-8 bg-gradient-to-r from-[#5BCEFA] via-[#F5A9B8] to-[#FFFFFF] bg-clip-text text-transparent">
-          Let's build tools for trans life — together.
+          Let&apos;s build tools for trans life — together.
         </h2>
         <p className="text-xl sm:text-2xl text-gray-300 mb-16 max-w-3xl mx-auto">
-          We're looking for developers, designers, organizers, and writers who want to create 
+          We&apos;re looking for developers, designers, organizers, and writers who want to create 
           technology that serves our communities.
         </p>
         

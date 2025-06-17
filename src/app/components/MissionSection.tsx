@@ -22,7 +22,7 @@ export default function MissionSection() {
           </p>
           <p className="text-white opacity-95">
             From mutual aid networks to privacy tools, from community platforms to resource databases — 
-            we're building the digital infrastructure our communities need to thrive.
+            we&apos;re building the digital infrastructure our communities need to thrive.
           </p>
           <p className="text-white opacity-95 text-xl font-semibold bg-gradient-to-r from-[#5BCEFA] via-[#F5A9B8] to-[#FFFFFF] bg-clip-text text-transparent">
             Every line of code is an act of resistance. Every tool we build is a step toward liberation.

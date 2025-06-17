@@ -1,4 +1,4 @@
-import { ArrowRight, Github, MessageCircle } from 'lucide-react';
+import { Github, MessageCircle } from 'lucide-react';
 import Image from 'next/image';
 import Link from 'next/link';
 
@@ -23,7 +23,7 @@ export default function HeroSection() {
         Open-source tech for trans survival and self-determination.
         </h1>
         <p className="text-2xl sm:text-3xl lg:text-4xl text-gray-300 mb-16 max-w-5xl mx-auto leading-relaxed font-light text-center">
-        We're building digital infrastructure for mutual aid, privacy, and care — by and for trans&nbsp;people.
+        We&apos;re building digital infrastructure for mutual aid, privacy, and care — by and for trans&nbsp;people.
         </p>
         <div className="flex flex-col sm:flex-row gap-8 justify-center items-center mt-12">
           <Link
